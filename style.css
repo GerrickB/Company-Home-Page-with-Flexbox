@@ -28,3 +28,24 @@ nav p {
   margin: 25px;
   text-decoration: underline;
 }
+
+#preorder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(./images/boliviainteligente-n2tAdx7Xpc0-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 500px;
+}
+
+#preorder .content {
+  text-align: center;
+}
+
+#preorder .content h1 {
+  color: seashell;
+  text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+  font-size: 3em;
+}
